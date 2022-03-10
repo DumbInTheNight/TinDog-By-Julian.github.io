@@ -1,2 +1,1 @@
-# TinDog-By-Julian.github.io
- TinDog Webpage
+TinDog Starting Files
