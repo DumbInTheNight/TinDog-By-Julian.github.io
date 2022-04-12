@@ -143,6 +143,62 @@ text-align: center;
 
 
 
+/*Call to Action Section*/ 
+
+#cta {
+    width: 80%;
+    height: 300px;
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+#cta-title {
+    font-family: Montserrat;
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+    padding: 30px 20px 5px 20px;
+
+}
+
+/*footer*/ 
+
+#footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+@media (max-width: 990px) {
+
+    .title-image {
+        transform: rotate(0);
+
+    }
+
+    #title {
+        text-align: center;
+    }
+}
+
+@media (max-width: 823px) {
+
+    #cta-title {
+
+        font-size: 2rem;
+    }
+
+    #cta-btn {
+        font-size: 20px;
+    }
+
+}
+
+
+
+
+
 
 
 
